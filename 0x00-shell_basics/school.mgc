@@ -1,3 +1,2 @@
 0 string SCHOOL 
-file -C -m school 
 file -m school
