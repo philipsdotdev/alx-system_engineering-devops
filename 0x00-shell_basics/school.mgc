@@ -1,2 +1,3 @@
-0 string SCHOOL
-file school
+0 string SCHOOL 
+file -C -m school 
+file -m school
